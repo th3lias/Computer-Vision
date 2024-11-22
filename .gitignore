@@ -1,3 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+resources/
+runs/
+yolo*
+
 .DS_STORE
 
 # Byte-compiled / optimized / DLL files
